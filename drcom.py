@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #https://raw.githubusercontent.com/drcoms/drcom-generic/master/latest-wired.py
-#感谢学长的配置文件
 
 import socket
 import struct
@@ -21,7 +20,7 @@ host_os = "Windows 10"
 host_ip = "172.21.22.251"
 PRIMARY_DNS = '218.201.4.3'
 dhcp_server = '172.16.10.2'
-mac = 0x00e0704e06bb #你的MAC地址
+mac = 0x00e0704e0678 #你的MAC地址
 CONTROLCHECKSTATUS = '\x20'
 ADAPTERNUM = '\x04'
 KEEP_ALIVE_VERSION = '\xdc\x02'
