@@ -5,7 +5,7 @@
 > 2. start_hidden.vbs----后台运行
 > 3. start_show.bat----前台运行
 > 4. stop_all_python.bat----停止运行
->> 注意：这会会终结掉所有运行Python程序
+>> 注意：这会终结掉所有运行Python程序
 ## 程序使用
 修改drcom.py中的`username`,`password`,`mac`,其他不要动。
 ```
