@@ -1,1 +1,1 @@
-taskkill /IM python.exe /F
+taskkill /IM python.exe /
