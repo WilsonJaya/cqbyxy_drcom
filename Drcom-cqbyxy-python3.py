@@ -12,14 +12,14 @@ import binascii
 
 # CONFIG
 server = "172.16.10.2"
-username = "15086923470"
-password = "923470"
+username = "account number" #你的宽带账号(默认为你在学校办的手机号)
+password = "password" #你的密码(18级以前的为身份证后6位，19级及以后的为手机号后6位)
 host_name = "fuyumi"
 host_os = "Windows 10"
 host_ip = "172.21.22.251"
 PRIMARY_DNS = "218.201.4.3"
 dhcp_server = "172.16.10.2"
-mac = 0x00e0704e06bb
+mac = 0x00e0704e06bb #你的MAC地址
 CONTROLCHECKSTATUS = b'\x20'
 ADAPTERNUM = b'\x04'
 KEEP_ALIVE_VERSION = b'\xdc\x02'
