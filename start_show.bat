@@ -1,1 +1,1 @@
-python drcom.py
+python Drcom-cqbyxy-python2.py
