@@ -3,7 +3,7 @@
 ## 程序说明
 |文件|说明|
 |:-|:-|
-|Drcom-cqbyxy-python3.py|主程序(python2版本请用Drcom-cqbyxy-python3.py)|
+|Drcom-cqbyxy-python3.py|主程序(python2版本请用Drcom-cqbyxy-python2.py)|
 |start_show.bat|前台运行|
 |start_hidden.vbs|后台运行|
 |stop_all_python.bat|停止运行 **注意：这会终结掉所有正在运行的Python程序**|
