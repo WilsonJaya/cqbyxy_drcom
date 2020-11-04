@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-#https://raw.githubusercontent.com/drcoms/drcom-generic/master/latest-wired.py
 
 import socket
 import struct
@@ -13,8 +12,8 @@ import traceback
 
 # CONFIG
 server = "172.16.10.2"
-username = "account number" #你的宽带账号
-password = "passwd" #你的密码
+username = "account number" #你的宽带账号(默认为你在学校办的手机号)
+password = "password" #你的密码(18级以前的为身份证后6位，19级及以后的为手机号后6位)
 host_name = "fuyumi"
 host_os = "Windows 10"
 host_ip = "172.21.22.251"
