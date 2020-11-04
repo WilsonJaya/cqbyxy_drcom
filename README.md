@@ -1,10 +1,11 @@
 # 本项目为重庆建筑科技职业学院宽带登录Python版
 本项目参考[Drcom-generic](https://github.com/drcoms/drcom-generic)，有兴趣可以自己弄。
 ## 程序说明
-> 1. drcom.py----主程序
-> 2. start_hidden.vbs----后台运行
-> 3. start_show.bat----前台运行
-> 4. stop_all_python.bat----停止运行
+1. Drcom-cqbyxy-python3.py----主程序
+>>python2版本请用Drcom-cqbyxy-python3.py
+2. start_hidden.vbs----后台运行
+3. start_show.bat----前台运行
+4. stop_all_python.bat----停止运行
 >> 注意：这会终结掉所有运行Python程序
 ## 程序使用
 修改drcom.py中的`username`,`password`,`mac`,其他不要动。
