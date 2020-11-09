@@ -1,13 +1,17 @@
+[toc]
 # 重庆建筑科技职业学院宽带登录Python版
 本项目为重庆建筑科技职业学院（原重庆房地产职业学院）宽带（dr.com/哆点）登录Python版  
 本项目参考[Drcom-generic](https://github.com/drcoms/drcom-generic)，有兴趣可以自己弄。
 ## 所需环境
-[python3.9](https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe)(点击下载，截至20201104最新版)
+1. windows系统(Windows 7,Windows 10均测试通过，其他windows版本自测，理论能安装python都可以)
+2. [python 3.9](https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe)(截至2020-11-04最新版)
 >你也可以自行访问[python](https://www.python.org/downloads/windows/)官网下载最新版
+3. 经过测试只要可以安装python环境都可以成功运行
 ## 程序说明
 |文件|说明|
 |:-|:-|
-|Drcom-cqbyxy-python3.py|主程序(python2版本请用Drcom-cqbyxy-python2.py)|
+|Drcom-cqbyxy-python2.py|主程序,python2.x版本|
+|Drcom-cqbyxy-python3.py|主程序,python3.x版本|
 |start_show.bat|前台运行|
 |start_hidden.vbs|后台运行|
 |stop_all_python.bat|停止运行 **注意：这会终结掉所有正在运行的Python程序**|
